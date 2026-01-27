@@ -29,6 +29,6 @@
   "license": "ISC",
   "dependencies": {
     "eslint-plugin-chai-friendly": "^1.1.0",
-    "eslint-plugin-cypress": "^5.2.1"
+    "eslint-plugin-cypress": "^3.6.0"
   }
 }
