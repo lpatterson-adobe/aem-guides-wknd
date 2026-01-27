@@ -68,4 +68,8 @@
     "last 2 version",
     "> 1%"
   ]
+  ,
+  "engines": {
+    "node": ">=18.18.0"
+  }
 }
